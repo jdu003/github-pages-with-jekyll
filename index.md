@@ -1,6 +1,6 @@
 ---
-title: "Welcome to JD's github blog"
+title: "Welcome to my github blog"
 ---
 
-I'm glad you are here. I plan to talk about learning github pages
+I'm glad you are here. I plan to talk about ...
 
