@@ -1,4 +1,5 @@
 ---
+theme: minima
 title: "Welcome to JD's github blog 1 1"
 ---
 
