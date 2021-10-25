@@ -1,3 +1,6 @@
+
+theme: minima
+
 ---
 title: "Welcome to JD's github blog"
 ---
